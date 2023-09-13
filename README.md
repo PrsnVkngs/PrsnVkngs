@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # 👋 Hey there, I'm Oskar!
 
 ## 🤖 About Me
@@ -13,8 +11,9 @@ I'm a machine learning and robotics enthusiast currently attending San Jose Stat
 - **Misc**: Game Development (Unity, Unreal Engine), API Development
 
 ### 🌱 I'm currently learning
-- Russian & Farsi languages 🇷🇺🇮🇷
-- Advanced algorithms for robotic path-planning 🗺️
+- How to speak Farsi & Russian :iran: :ru:
+- Advanced algorithms for robotic path-finding 🗺️
+- ML/AI model design and applications :robot::brain:
 
 ## 🕹️ Hobbies
 
