@@ -2,7 +2,8 @@
 
 ## 🤖 About Me
 
-I'm a machine learning and robotics enthusiast currently attending San Jose State University. I'm on the path to innovating how robots learn and interact with the world.
+I'm a machine learning and robotics enthusiast currently attending San Jose State University. I'm on the path to innovating how robots learn and interact with the world. 
+I love speaking languages, and am always eager to interact with people from various backgrounds, despite the potential for a language barrier.
 
 ### 🧠 Skills
 - **Machine Learning**: TensorFlow, PyTorch, Scikit-Learn
