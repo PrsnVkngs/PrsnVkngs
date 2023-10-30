@@ -5,6 +5,8 @@
 I'm a machine learning and robotics enthusiast currently attending San Jose State University. I'm on the path to innovating how robots learn and interact with the world. 
 I love speaking languages, and am always eager to interact with people from various backgrounds, despite the potential for a language barrier.
 
+
+
 ### 🧠 Skills
 - **Machine Learning**: TensorFlow, PyTorch, Scikit-Learn
 - **Robotics**: ROS, SLAM, Computer Vision
@@ -16,10 +18,9 @@ I love speaking languages, and am always eager to interact with people from vari
 - Advanced algorithms for robotic path-finding 🗺️
 - ML/AI model design and applications :robot::brain:
 
-## 🕹️ Hobbies
+<!--## :zap: My favorite projects-->
 
-### Video Gaming 🎮
-I can spend hours dissecting game engines and exploring virtual worlds.
+## 🕹️ Hobbies
 
 ### Woodworking 🪓
 Creating tangible objects from wood offers a balance to my digital life.
@@ -29,9 +30,6 @@ I practice Taekwondo and Aikido; disciplines that improve my focus and physical 
 
 ### Rock Climbing 🧗‍♂️
 Climbing helps me practice problem-solving in a physical dimension.
-
-## 🎓 Academic Goals
-Working diligently to maintain my grades for a competitive PhD program in Robotics and Machine Learning. Considering options in both the U.S. and Sweden.
 
 ## 🌐 Social Media
 
